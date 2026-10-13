@@ -1,0 +1,149 @@
+[
+  {
+    "id": "n01",
+    "name": "Baseplate Navigation Compass",
+    "category": "Navigation",
+    "price": 28.0,
+    "image": "baseplate-compass.jpg",
+    "tag": "FIELD ESSENTIAL",
+    "description": "A clear-base navigation compass for map work, route planning, and everyday trail orientation.",
+    "brand_note": "Price benchmark: Suunto A-10 NH listed at $28 at REI; this is a generic concept item."
+  },
+  {
+    "id": "n02",
+    "name": "Topographic Trail Map Set",
+    "category": "Maps & Cartography",
+    "price": 19.95,
+    "image": "topographic-map-set.jpg",
+    "tag": "READ THE TERRAIN",
+    "description": "A compact set of topographic-style maps for planning routes and keeping a paper backup on the trail."
+  },
+  {
+    "id": "n03",
+    "name": "Waterproof Map Case",
+    "category": "Maps & Cartography",
+    "price": 39.95,
+    "image": "waterproof-map-case.jpg",
+    "tag": "WEATHER READY",
+    "description": "A transparent protective map case concept for keeping route notes visible in changing conditions.",
+    "brand_note": "Price reference range: waterproof map cases around $35\u2013$45 at outdoor retailers."
+  },
+  {
+    "id": "n04",
+    "name": "Trail Daypack 28L",
+    "category": "Packs & Bags",
+    "price": 89.99,
+    "image": "hiking-backpack.jpg",
+    "tag": "DAY HIKE PICK",
+    "description": "A practical daypack concept with organized storage for layers, navigation tools, snacks, and water."
+  },
+  {
+    "id": "n05",
+    "name": "Adjustable Trekking Poles",
+    "category": "Hiking Gear",
+    "price": 79.95,
+    "image": "trekking-poles.jpg",
+    "tag": "STEADY STEPS",
+    "description": "A pair of adjustable trekking poles for added support on varied terrain.",
+    "brand_note": "Market benchmark: trekking poles range from about $30 to $110 depending on construction."
+  },
+  {
+    "id": "n06",
+    "name": "Rechargeable Trail Headlamp",
+    "category": "Lighting & Safety",
+    "price": 39.95,
+    "image": "rechargeable-headlamp.jpg",
+    "tag": "AFTER-DARK READY",
+    "description": "A compact headlamp concept with a comfortable strap for hands-free visibility around camp and trail."
+  },
+  {
+    "id": "n07",
+    "name": "Insulated Trail Bottle",
+    "category": "Hydration",
+    "price": 29.0,
+    "image": "insulated-bottle.jpg",
+    "tag": "HYDRATION",
+    "description": "A reusable insulated bottle concept for keeping water close during day hikes and road trips."
+  },
+  {
+    "id": "n08",
+    "name": "Compact Trail Binoculars",
+    "category": "Exploration Tools",
+    "price": 94.95,
+    "image": "trail-binoculars.jpg",
+    "tag": "LOOK CLOSER",
+    "description": "Compact binoculars for observing distant landscapes, wildlife, and landmarks from a safe distance."
+  },
+  {
+    "id": "n09",
+    "name": "Weatherproof Field Notebook",
+    "category": "Maps & Cartography",
+    "price": 12.95,
+    "image": "field-notebook.jpg",
+    "tag": "NOTES FROM THE TRAIL",
+    "description": "A pocket-sized notebook concept for recording bearings, observations, route ideas, and trip notes."
+  },
+  {
+    "id": "n10",
+    "name": "Handheld GPS Navigator",
+    "category": "Navigation",
+    "price": 149.99,
+    "image": "handheld-gps.jpg",
+    "tag": "DIGITAL BACKUP",
+    "description": "A handheld GPS concept for route tracking and navigation planning. Always carry suitable backup navigation."
+  },
+  {
+    "id": "n11",
+    "name": "Trail First-Aid Pouch",
+    "category": "Lighting & Safety",
+    "price": 24.95,
+    "image": "first-aid-pouch.jpg",
+    "tag": "PREPAREDNESS",
+    "description": "A compact pouch concept for organizing a personal first-aid kit. Contents should be checked and tailored before use."
+  },
+  {
+    "id": "n12",
+    "name": "Packable Rain Shell",
+    "category": "Hiking Gear",
+    "price": 69.0,
+    "image": "packable-rain-shell.jpg",
+    "tag": "WEATHER LAYER",
+    "description": "A lightweight rain-shell concept for keeping an emergency weather layer organized in a daypack."
+  },
+  {
+    "id": "n13",
+    "name": "Aluminum Safety Whistle",
+    "category": "Lighting & Safety",
+    "price": 9.95,
+    "image": "safety-whistle.jpg",
+    "tag": "SMALL BUT USEFUL",
+    "description": "A compact whistle concept for signaling in outdoor environments. Learn local safety practices before heading out."
+  },
+  {
+    "id": "n14",
+    "name": "Rugged Solar Power Bank",
+    "category": "Power & Lighting",
+    "price": 44.95,
+    "image": "solar-power-bank.jpg",
+    "tag": "POWER ON THE GO",
+    "description": "A rugged power-bank concept with a solar-panel design for topping up small devices when conditions allow."
+  },
+  {
+    "id": "n15",
+    "name": "Compact Camping Lantern",
+    "category": "Power & Lighting",
+    "price": 29.95,
+    "image": "camping-lantern.jpg",
+    "tag": "CAMP SETUP",
+    "description": "A portable lantern concept for illuminating a campsite, picnic table, or travel setup."
+  },
+  {
+    "id": "n16",
+    "name": "Modular Gear Organizer",
+    "category": "Packs & Bags",
+    "price": 22.95,
+    "image": "gear-organizer.jpg",
+    "tag": "PACK WITH PURPOSE",
+    "description": "A zippered organizer concept for grouping small accessories and keeping essentials easy to find."
+  }
+]
