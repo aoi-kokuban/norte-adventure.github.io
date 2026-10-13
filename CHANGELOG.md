@@ -1,10 +1,10 @@
 # Changelog
 
-## V2 — 2026-10-13
-- Corrected product image slicing to match the source image's actual 4×4 grid geometry.
-- Re-exported all 16 product photos as individual square files, with safe padding to avoid adjacent product bleed and preserve full objects.
-- Verified each product points to its own local image file.
-- Repacked the project and checked ZIP integrity and local paths.
+## V3 — 2026-10-13
+- Removed the visible padding/frame from the topographic map product image.
+- Updated product photo rendering to fill each image tile without an artificial image border.
+- Added visible, clickable support email links to the contact section and customer-care footer.
+- Updated documentation to identify the support email as a demo placeholder that must be replaced before launch.
 
 ## V1 — 2026-10-13
 - Initial NORTE storefront structure and brand identity.

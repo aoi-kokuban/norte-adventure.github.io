@@ -117,10 +117,11 @@ The URL usually follows `https://YOUR-USERNAME.github.io/norte-adventure/`. Repl
 
 ## Customer support
 
-**NORTE — Cartography & Adventure**  
-Support placeholder: `support@norte.example`
+**NORTE — Cartography & Adventure**
 
-The `.example` address is reserved for documentation and is not a live inbox. Replace it with an official support address before using this storefront commercially.
+- **Support email shown in the storefront:** `support@norte.example`
+- The support email is linked with `mailto:` in the footer and contact section.
+- **Important:** `.example` is reserved for documentation and is not a live inbox. Replace it with your official support email before using this storefront commercially.
 
 ## Project status
 
